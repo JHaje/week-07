@@ -1,0 +1,14 @@
+
+    image-id
+    instance-type
+    key-name
+    security-group-ids
+    count (3)
+    availability-zone
+    elb name
+    target group name
+    auto-scaling group name
+    launch configuration name
+    db instance identifier (database name)
+    db instance identifier (for read-replica), append -rpl
+
